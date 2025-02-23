@@ -4,11 +4,11 @@ This is a list of the projects I created to complete the Foundations and Full St
 
 ## Foundations
 
-1. Recipe Site ( [View code](#) | [Preview](#) )
-2. Landing Page ( [View code](#) | [Preview](#) )
-3. Rock Paper Scissors ( [View code](#) | [Preview](#) )
-4. Etch-a-Sketch ( [View code](#) | [Preview](#) )
-5. Calculator ( [View code](#) | [Preview](#) )
+1. Recipe Site ( [View code](./foundations/01-recipe-site/) | [Preview](#) )
+2. Landing Page ( [View code](./foundations/02-landing-page/) | [Preview](#) )
+3. Rock Paper Scissors ( [View code](./foundations/03-rock-paper-scissors/) | [Preview](#) )
+4. Etch-a-Sketch ( [View code](./foundations/04-etch-a-sketch/) | [Preview](#) )
+5. Calculator ( [View code](./foundations/05-calculator/) | [Preview](#) )
 
 ## Full Stack Javascript
 
