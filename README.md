@@ -14,4 +14,4 @@ This is a list of the projects I created to complete the Foundations and Full St
 
 > There are 7 modules. Will update this as I go
 
-> You can read my notes [here](#/review-notes)
+> You can read my notes [here](./review-notes/)
